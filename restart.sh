@@ -1,0 +1,1 @@
+vagrant ssh -c "sudo service httpd stop" && vagrant ssh -c "sudo service httpd start"
